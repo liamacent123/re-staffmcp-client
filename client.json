@@ -1,0 +1,16 @@
+{
+  "client_id": "https://liamacent123.github.io/re-staffmcp-client/client.json",
+  "client_name": "Rapid Education agent (Liam's devbox)",
+  "application_type": "web",
+  "redirect_uris": [
+    "https://re-staffmcp.liam.netz-preview.dev/callback"
+  ],
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none"
+}
